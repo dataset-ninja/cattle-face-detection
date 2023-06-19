@@ -38,7 +38,7 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = None
 PAPER: Optional[str] = None
 CITATION_URL: Optional[str] = "https://universe.roboflow.com/universidade-federal-de-santa-maria-dbq3m/cattle-face-detection"
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "Universidade Federal de Santa Maria, Brazil"
-ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://universe.roboflow.com/universidade-federal-de-santa-maria-dbq3m"
+ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://www.ufsm.br/"
 TAGS: List[str] = None
 
 ##################################
