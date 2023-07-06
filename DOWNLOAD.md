@@ -1,6 +1,6 @@
 Dataset **Cattle Face Detection** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervise.ly/supervisely-supervisely-assets-public/teams_storage/p/R/xz/aSyEjdv5wtrcG1SbLKNc5D7qEAv6I4GhSaiMgnIsxVW0Kvr4fj2vVvbpgzeFrScPdNy76vdSEsR3LKa1IyyzcEVehAjvFskPocO3ioPcYUMOk8RQ1rnFl1neFNMS.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/p/C/Kz/LPanFStkZlpSDjh2hBlvuoFW7wzQAgUNkClY0SlLfqTqSdenQrBRyQEQhcEtrRhFJsTMZ2zm48ULK3gHCKKhYPK0YHeUVfmJsyxUKmcpwihBOyA1El2ziqi9Ge8T.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
